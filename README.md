@@ -1,11 +1,9 @@
-# hyperloglog2
+# HyperLogLog
 
-HyperLogLog cardinality estimation.""".
-
-Zero dependencies. Python 3.8+.
+HyperLogLog — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
-python3 hyperloglog2.py --help
+python3 hyperloglog2.py
 ```
